@@ -1,5 +1,7 @@
 # Sitecore – Context Applied Solutions
 
+Meetup was Thursday, February 2, 2017 at Endava (sponsor)
+
 Agenda:
 
 - 5:45 PM – 6:15 PM Welcome & Registration
