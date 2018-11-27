@@ -1,6 +1,6 @@
 # Sitecore – Context Applied Solutions
 
-Meetup was Thursday, February 2, 2017 at Endava (sponsor)
+Meetup was Thursday, February 2, 2017 at Endava, United Business Center Tower (sponsor)
 
 Agenda:
 
